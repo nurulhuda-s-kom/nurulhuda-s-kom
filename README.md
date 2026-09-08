@@ -71,5 +71,6 @@ I'm currently deepening my expertise in **Angular + NestJS** for full-stack deli
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nurulhuda-s-kom/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kodesayap@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6282313714009)
 
 <sub>Open to remote full-stack (Angular/NestJS) or backend (Rust) engagements.</sub>
