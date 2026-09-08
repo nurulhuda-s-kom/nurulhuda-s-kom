@@ -49,7 +49,7 @@ I'm currently deepening my expertise in **Angular + NestJS** for full-stack deli
 |---|---|---|
 | **BIOP** — Bondowoso Intelligent Operational Platform | Regency-wide "One Data" platform: data integration, API generator, dashboard builder, GIS studio, open data portal | Laravel, React, Inertia, MySQL, GroqAI |
 | **SIMANIS** | TB patient mapping across all public health centers + AI-assisted public consultation chatbot | Yii2, Leaflet, GroqAI |
-| **SIKDAv2** | District health information system integrated with national BPJS & Satusehat systems | Yii2, Node.js, MySQL |
+| **SIKDA** | District health information system integrated with national BPJS & Satusehat systems | Yii2, Node.js, MySQL |
 | **Quickcount (2024 Election)** | Real-time vote tallying system for sub-district officers during the 2024 general election | Node.js, Socket.io, MySQL |
 | **KANDA** | Public complaint platform connecting citizens directly to local government | Node.js, Yii2, Socket.io |
 | **Pasopati** | Real-time regional revenue (PAD) tracking API with legacy system migration | Node.js, Socket.io, MySQL |
@@ -69,7 +69,7 @@ I'm currently deepening my expertise in **Angular + NestJS** for full-stack deli
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nurul-huda-s-kom/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nurulhuda-s-kom/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kodesayap@gmail.com)
 
-<sub>Open to remote full-stack (Angular/NestJS) or backend (Rust) engagements — 30 hrs/week availability, GMT+7.</sub>
+<sub>Open to remote full-stack (Angular/NestJS) or backend (Rust) engagements.</sub>
